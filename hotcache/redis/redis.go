@@ -5,8 +5,8 @@ import (
 	"errors"
 	"time"
 
-	"github.com/infinitybotlist/eureka/hotcache"
-	"github.com/infinitybotlist/eureka/jsonimpl"
+	"github.com/anti-raid/eureka/hotcache"
+	"github.com/anti-raid/eureka/jsonimpl"
 	"github.com/redis/go-redis/v9"
 )
 

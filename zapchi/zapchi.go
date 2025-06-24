@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/go-chi/chi/v5/middleware"
-	"github.com/infinitybotlist/eureka/crypto"
+	"github.com/anti-raid/eureka/crypto"
 	"go.uber.org/zap"
 )
 

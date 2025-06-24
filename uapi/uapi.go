@@ -8,8 +8,8 @@ import (
 	"reflect"
 	"strings"
 
-	docs "github.com/infinitybotlist/eureka/doclib"
-	"github.com/infinitybotlist/eureka/jsonimpl"
+	docs "github.com/anti-raid/eureka/doclib"
+	"github.com/anti-raid/eureka/jsonimpl"
 	"go.uber.org/zap"
 
 	"github.com/go-chi/chi/v5"

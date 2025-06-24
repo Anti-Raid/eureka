@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/infinitybotlist/eureka/dovewing/dovetypes"
-	"github.com/infinitybotlist/eureka/hotcache"
+	"github.com/anti-raid/eureka/dovewing/dovetypes"
+	"github.com/anti-raid/eureka/hotcache"
 	"github.com/jackc/pgx/v5"
 	"github.com/jackc/pgx/v5/pgxpool"
 	"go.uber.org/zap"

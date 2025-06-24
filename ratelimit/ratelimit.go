@@ -10,7 +10,7 @@ import (
 	"time"
 	"errors"
 
-	"github.com/infinitybotlist/eureka/hotcache"
+	"github.com/anti-raid/eureka/hotcache"
 )
 
 var zero = 0
