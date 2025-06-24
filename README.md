@@ -9,4 +9,4 @@ Set of common primitives useful for Go web services.
 - dovewing: Our custom user fetching and caching library
 - genconfig: Common configuration generation library
 - uapi: Defines a unified API handling code with auth and timeouts and caching builtin
-- snippets: Common snippets for zap etc. that are useful
+- snippets: Common snippets for zap etc. that are useful 
