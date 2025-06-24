@@ -1,4 +1,4 @@
-module github.com/infinitybotlist/eureka
+module github.com/anti-raid/eureka
 
 go 1.19
 
